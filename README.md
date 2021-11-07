@@ -6,14 +6,6 @@
 - Updated: 16 December 2020
 - Mockup: https://www.figma.com/proto/UiYyh89goQnRVtVySceQ1y/MengAlir?node-id=281%3A335&starting-point-node-id=281%3A335&scaling=scale-down
 
-# StayUp
-- StayUp Team
-  - Ardith Lutfiawan
-  - Huda Izzatulhaq
-  - Muhammad Azhar Rasyad
-- Updated: 
-- Mockup: 
-
 # tapSehat
 - Setapak Team
   - Ardith Lutfiawan
@@ -21,6 +13,14 @@
   - Muhammad Azhar Rasyad
 - Updated: 11 December 2019
 - Mockup: https://www.figma.com/proto/GVq8ZgQ9b5rQGCeXrBBbDJ/tapSehat?node-id=57%3A8&scaling=scale-down
+
+# StayUp
+- StayUp Team
+  - Ardith Lutfiawan
+  - Huda Izzatulhaq
+  - Muhammad Azhar Rasyad
+- Updated: 25 October 2019
+- Mockup: https://www.figma.com/proto/vpH2zgrdWy4UfUzFM0TfP2/StayUp?node-id=165%3A2161&scaling=scale-down&page-id=165%3A0&starting-point-node-id=165%3A2736
 
 # Ops...
 - Exact Team
