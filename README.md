@@ -1,26 +1,26 @@
-# Judul
-- Nama Team
-  - 
+# ClickData
+- StayUp Team
+  - Ardith Lutfiawan
+  - Huda Izzatulhaq
   - Muhammad Azhar Rasyad
-  - 
+- Updated: 16 December 2020
+- Mockup: https://www.figma.com/proto/UiYyh89goQnRVtVySceQ1y/MengAlir?node-id=281%3A335&starting-point-node-id=281%3A335&scaling=scale-down
+
+# StayUp
+- StayUp Team
+  - Ardith Lutfiawan
+  - Huda Izzatulhaq
+  - Muhammad Azhar Rasyad
 - Updated: 
 - Mockup: 
 
-# Judul
-- Nama Team
-  - 
+# tapSehat
+- Setapak Team
+  - Ardith Lutfiawan
+  - Huda Izzatulhaq
   - Muhammad Azhar Rasyad
-  - 
-- Updated: 
-- Mockup: 
-
-# Judul
-- Nama Team
-  - 
-  - Muhammad Azhar Rasyad
-  - 
-- Updated: 
-- Mockup: 
+- Updated: 11 December 2019
+- Mockup: https://www.figma.com/proto/GVq8ZgQ9b5rQGCeXrBBbDJ/tapSehat?node-id=57%3A8&scaling=scale-down
 
 # Ops...
 - Exact Team
