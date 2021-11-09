@@ -20,7 +20,7 @@
   - Huda Izzatulhaq
   - Muhammad Azhar Rasyad
 - Updated: 25 October 2019
-- Mockup: https://www.figma.com/proto/vpH2zgrdWy4UfUzFM0TfP2/StayUp?node-id=165%3A2161&scaling=scale-down&page-id=165%3A0&starting-point-node-id=165%3A2736
+- Mockup: https://www.figma.com/proto/vpH2zgrdWy4UfUzFM0TfP2/StayUp?node-id=165%3A2736&scaling=scale-down&page-id=165%3A0&starting-point-node-id=165%3A2736
 
 # Ops...
 - Exact Team
